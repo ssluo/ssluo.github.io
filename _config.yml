@@ -104,3 +104,4 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+    folder: _projects
