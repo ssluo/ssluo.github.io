@@ -103,4 +103,4 @@ tag_archive:
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
