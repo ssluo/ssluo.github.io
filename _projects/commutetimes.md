@@ -1,6 +1,3 @@
----
-permalink: /projects/commutetimes
----
 
 # Commute Times
 
