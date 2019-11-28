@@ -111,5 +111,5 @@ tag_archive:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /:projects/:path/
     folder: _projects
