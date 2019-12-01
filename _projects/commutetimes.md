@@ -1,3 +1,7 @@
+---
+collection: projects
+---
+
 
 # Commute Times
 
@@ -6,3 +10,4 @@ Co-oping at the MBTA reshaped how I think about transportation - especially my m
 ![alt text](https://github.com/ssluo/ssluo.github.io/blob/master/projects/commutetimes/plot1.png?raw=true "Morning commute broken out by stage")
 
 In retrospect, I should have been more thourough in my data collection - taking down morning weather and temperature would allow me to quantify the effect of weather on traffic levels, as well as my personal commute preferences (driving vs biking to the subway station). 
+
