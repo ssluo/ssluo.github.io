@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: single
+author_profile: true
 ---
 
 I am a fifth year economics student at Northeastern University currently working at the Massachusetts Bay Transportation Authority (MBTA). My past work experiences include Wayfair and Guy Carpenter. 
