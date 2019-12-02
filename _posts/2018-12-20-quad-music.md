@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - R
-  - Project
+  - project
 ---
 
 My friend group, self-titled "the quad", likes to share what music we're listening to with each other. What started out as a collaborative playlist on Spotify has turned into competing for weekly highest song listening counts and playing games to see how well we know each other's music tastes. 

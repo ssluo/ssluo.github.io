@@ -5,7 +5,7 @@ categories:
 tags:
   - Python
   - PostgreSQL
-  - Project
+  - project
 ---
 
 This project started because I was curious about how my performance at ballroom dance competitions changed over time. I wrote a python script to crawl my individual result page on O2CM, the primary scrutineering and result storing system for collegiate dance competitions that I attended. After cleaning the results using BeautifulSoup and importing the final data into SQL, here's what I found: 
