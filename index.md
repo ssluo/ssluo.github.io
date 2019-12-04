@@ -4,6 +4,7 @@ layout: single
 author_profile: true
 header: 
 	image: /assets/images/bridge.JPG
+	
 ---
 
 I am a fifth year student at Northeastern University studying economics, with an interest in business analytics and game theory.
