@@ -11,6 +11,7 @@ title: "Resume"
 **Coursework**: Microeconomic and Macroeconomic Theory, Statistics, Econometrics, Labor Economics, Food Economics, Information Economics and Game Theory, Moral and Social Problems in Healthcare
 
 ----
+
 ## Skills
 
 **Software/Tools**  
@@ -26,6 +27,7 @@ Native proficiency: English
 Proficient: French, Mandarin Chinese
 
 ----
+
 ## Work Experience
 
 **Massachusetts Bay Transportation Authority (MBTA)**  
@@ -40,6 +42,7 @@ July 2019-December 2019
 - Completed a wide variety of fare policy analysis projects with sensitive deadlines by planning and executing projects in parallel to meet stakeholder needs
 
 --
+
 **Guy Carpenter**  
 *Catastrophe Modeling Co-op*  
 Catastrophe Modeling Team  
@@ -52,6 +55,7 @@ July 2018-December 2018
 - Created Tableau workbooks and visualizations of insurance data to identify YOY trends in insurance coverage
 
 --
+
 **Wayfair**  
 *Pricing Operations Co-op/Intern*  
 Pricing and Profitability Team  
@@ -66,6 +70,7 @@ July 2017-April 2018
 - Balanced 15+ hour work week with full-time classes and extracurricular responsibilities (Jan 2018-April 2018)
 
 ----
+
 ## Other Experience
 **Northeastern University**  
 *Peer Mentor*  
@@ -84,6 +89,7 @@ April 2016-December 2016
 - Guided students through the spring course selection process and transition back to the Boston campus
 
 --
+
 **Northeastern University Ballroom Dance Club (NUBDC)**  
 *Co-Captain*  
 May 2016-June 2017  
