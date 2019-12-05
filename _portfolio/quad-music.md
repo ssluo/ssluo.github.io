@@ -10,7 +10,7 @@ My friend group, self-titled "the quad", likes to share what music we're listeni
 With an abundance of data from Spotify and last.fm, I took the opportunity to make some charts.
 
 ## Weekly Listening Stats
-One friend, [Michael Goodnow](https://github.com/mmgoodnow "mmgoodnow"), wrote an app called [this-week-fm](https://this-week-fm.herokuapp.com/home "this-week-fm") to track the last.fm listening stats of everyone you follow. By following every other friend's last.fm profiles, we could keep up with what music they were listening to and casually compete to listen to more songs per week. 
+One friend created an app called [this-week-fm](https://this-week-fm.herokuapp.com/home "this-week-fm") to track the last.fm listening stats of everyone you follow. By following every other friend's last.fm profiles, we could keep up with what music they were listening to and casually compete to listen to more songs per week. 
 
 I used the app to record a few weeks of listening statistics for the group, and used R to chart trends.
 
