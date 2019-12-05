@@ -5,6 +5,8 @@ main:
     url: /resume/
   - title: "Projects"
     url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Posts"
     url: /posts/
   - title: "Tags"
