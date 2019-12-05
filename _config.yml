@@ -82,10 +82,13 @@ author:
       url: "https://github.com/ssluo"
 
 collections:
-  projects:
-    output: true
-    permalink: /:collections/:path/
+#  projects:
+#    output: true
+#    permalink: /:collections/:path/
 #    folder: _projects
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -107,12 +110,20 @@ defaults:
       layout: single
       author_profile: true
   # _projects
+#  - scope:
+#      path: ""
+#      type: projects
+#    values:
+#      layout: single
+#      author_profile: true
+ # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
