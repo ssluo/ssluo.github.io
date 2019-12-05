@@ -6,11 +6,11 @@ author_profile: true
 
 ![alt text](https://github.com/ssluo/ssluo.github.io/blob/master/assets/images/birds.jpeg?raw=true)
 
-Hello! I'm Serena Luo, a fifth year student at Northeastern University studying economics, with an interest in business analytics and game theory.
+Hello! I'm Serena Luo -- a senior at Northeastern University studying economics with an interest in business analytics and game theory.
 
-I currently co-op as a Fare Policy Analysis Assistant at the Massachusetts Bay Transportation Authority (MBTA), where I do fare policy analysis and fare modeling. I have been involved in all parts of the data analysis process--project scoping, developing analysis methodology, script coding and documentation, and presenting results. 
+I currently intern as a Fare Policy Analysis Assistant at the Massachusetts Bay Transportation Authority (MBTA), where I do fare policy analysis and fare modeling. I have been involved in all parts of the data analysis process--project scoping, developing analysis methodology, script coding and documentation, and presenting results. 
 
-My past work experiences were at Wayfair and Guy Carpenter. My first co-op at Wayfair gave me the opportunity to do deep dives into pricing databases and communicate pricing logic to other teams. At Guy Carpenter, I gained experience with catastrophe modeling and improved the analyst workflow by automating many data cleaning processes in R. 
+My past work experiences were at Wayfair and Guy Carpenter. My first internship at Wayfair gave me the opportunity to do deep dives into pricing databases and communicate pricing logic to other teams. At Guy Carpenter, I gained experience with catastrophe modeling and improved the analyst workflow by automating many data cleaning processes in R. 
 
 ![alt text](https://github.com/ssluo/ssluo.github.io/blob/master/assets/images/dance.jpg?raw=true)
 
