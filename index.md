@@ -14,7 +14,7 @@ My past work experiences were at Wayfair and Guy Carpenter. My first internship 
 
 ![alt text](https://github.com/ssluo/ssluo.github.io/blob/master/assets/images/dance.jpg?raw=true)
 
-Outside of school, I do competitve ballroom dance and compete at the gold-novice level. I co-captained the Northeastern University Ballroom Dance Club (NUBDC) during the 2016-2017 season. I organized travel to and from competitions, taught newcomer dance workshops, and ensured that all club dancers had the support they needed to compete and have fun while doing so.
+Outside of school, I do competitve ballroom dance and compete at the gold-novice level. I co-captained the Northeastern University Ballroom Dance Club during the 2016-2017 season. I organized travel to and from competitions, taught newcomer dance workshops, and ensured that all club dancers had the support they needed to compete and have fun while doing so.
 
-Data analysis isn't just something I do at work - I love making projects out of regular things in my life. Check out some of [my posts](https://ssluo.github.io/tags/#project) for examples!
+Data analysis isn't just something I do at work - I love making projects out of regular things in my life. Check out [my portfolio](https://ssluo.github.io/portfolio/) for examples!
 
