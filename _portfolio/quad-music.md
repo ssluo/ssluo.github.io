@@ -2,20 +2,8 @@
 title: "Music"
 excerpt: "Analyzing music listening trends among my friends."
 header:
-  image: /assets/images/lastfm-quadscrobbles.png
-  teaser: assets/images/bridge.JPG
-gallery:
-  - url: /assets/images/bridge.JPG
-    image_path: assets/images/bridge.JPG
-    alt: "placeholder image 1"
-  - url: /assets/images/bridge.JPG
-    image_path: assets/images/bridge.JPG
-    alt: "placeholder image 2"
-  - url: /assets/images/bridge.JPGg
-    image_path: assets/images/bridge.JPG
-    alt: "placeholder image 3"
+  teaser: assets/images/lastfm-quadscrobbles.png
 ---
-
 
 My friend group, self-titled "the quad", likes to share what music we're listening to with each other. What started out as a collaborative playlist on Spotify has turned into competing for weekly highest song listening counts and playing games to see how well we know each other's music tastes. 
 
