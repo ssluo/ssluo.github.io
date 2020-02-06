@@ -75,7 +75,7 @@ author:
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
     - label: "Contact"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:serena_luo@yahoo.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
