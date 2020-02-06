@@ -1,5 +1,5 @@
 ---
-title: "Music 2018"
+title: "Music - 2018"
 excerpt: "Analyzing music listening trends among my friends."
 header:
   teaser: assets/images/lastfm-quadscrobbles.png
