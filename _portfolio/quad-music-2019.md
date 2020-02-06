@@ -2,7 +2,7 @@
 title: "Music - 2019"
 excerpt: "An updated analysis."
 header:
-  teaser: assets/images/lastfm-quadscrobbles.png
+  teaser: assets/images/spotify2019-preview.png
   
 ---
 
