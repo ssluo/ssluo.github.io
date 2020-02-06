@@ -8,7 +8,7 @@ title: "Resume"
 *Candidate for Bachelor of Science in Economics, May 2020*  
 **GPA**: 3.5  
 **Honors**: Dean’s List (Fall 2016, Fall 2015, Spring 2019), Merit Scholarship  
-**Coursework**: Microeconomic and Macroeconomic Theory, Statistics, Econometrics, Labor Economics, Food Economics, Information Economics and Game Theory, Moral and Social Problems in Healthcare
+**Coursework**: Programming with Data, Microeconomic and Macroeconomic Theory, Statistics, Econometrics, Labor Economics, Food Economics, Information Economics and Game Theory, Moral and Social Problems in Healthcare
 
 ----
 ## Skills
@@ -31,7 +31,7 @@ Proficient: French, Mandarin Chinese
 **Massachusetts Bay Transportation Authority (MBTA)**  
 *Fare Policy Analysis Assistant*   
 Office of Performance Management and Innovation (OPMI)   
-July 2019-December 2019
+July 2019-present
 
 - Primary data analyst and sole intern presenter on an OPMI project evaluating effectiveness of MBTA initiative to change rider behavior; used experience from analysis process to make suggestions to stakeholder team on how to improve current data collection and analysis practices  
 - Modernized data modeling summary process from 10+ manual SQL queries into one Python notebook for time savings of 1h per model run  
