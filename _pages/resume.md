@@ -15,7 +15,7 @@ title: "Resume"
 
 **Software/Tools**  
 Highly proficient: Microsoft Office Suite, Markdown  
-Proficient: Tableau, ArcGIS
+Proficient: Git, Tableau, ArcGIS
 
 **Programming**  
 Highly proficient: SQL (Postgres / PL/PgSQL, SSMS), R  
