@@ -18,6 +18,7 @@ This was also a great opportunity to improve my skills in data wrangling and dat
 	- R list
 	- Chart (with update to non-user-dominated artists)
 	- ranks
+asdf
 
 ###Top Artists
 
@@ -26,6 +27,7 @@ I plotted top 10 artists by number of song appearances (as either primary or fea
 ![alt text](https://github.com/ssluo/ssluo.github.io/blob/master/assets/images/spotify2019-topartists.png?raw=true "Top Artists 2018-19")
 
 - Trendsetters
+
 
 ###Similarity
 
@@ -43,4 +45,6 @@ At some point I will learn how to make a network graph, and things will get even
 
 
 ## Things learned
-This project was a great experience 
+This project was a great experience. 
+
+Taking feedback from my friends and 
