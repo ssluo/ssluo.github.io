@@ -8,7 +8,7 @@ header:
 **3/14/2020**: Started self-quarantining due to COVID-19  
 **3/15/2020**: Read a whole book start to finish  
 **3/16/2020**: Reorganized my book tracking spreadsheet  
-**3/17/2020**: Made charts about my reading habits  
+**3/17/2020**: Made charts about my reading habits   
 
 I've accumulated a few dozen rows of data about books I've read over the past two-ish years. To ring in a productive self-quarantine, I decided to get a better understanding of my reading habits and use those insights to set goals for this year's book consumption.
 
@@ -36,13 +36,13 @@ Similarly unsurprising was my graph of top authors. I've been a China Miéville 
  
 ## Reading Goals
 
-Using these charts, I came up with some reading goals for the remaining 9 months of 2020:
+I used these insights to come up with some personal reading goals for the remaining 9 months of 2020:
 
-- Read at least 12 books this year. 
-	- Definitely achievable given my past reading pace. With 2 books down at time of writing, I only have 10 more to go!
-- Branch out from reading sci-fi/fantasy by: 
+- Read at least 12 books this year
+	- Definitely achievable given my past reading pace. With 2 books down at time of writing, I only have 10 more books to go!
+- Becoming a more balanced reader by: 
 	- Reading books in at least four new genres
-	- Having less than two-thirds of books read this year be sci-fi/fantasy
+	- Having less than half of books read this year be sci-fi/fantasy
 - Read books by authors outside of my favored set
 	- This should be pretty straightforward if I manage the goal of reading in new genres. So, I'll make a more detailed goal: find an author I enjoy in a new genre and reading at least two books by that author.
 
