@@ -12,7 +12,7 @@ header:
 
 I've accumulated a few dozen rows of data about books I've read over the past two-ish years. To ring in a productive self-quarantine, I decided to get a better understanding of my reading habits and use those insights to set goals for this year's book consumption.
 
-##Books per Year
+## Books per Year
 
 Having an excess of time on my hands, I used my Kindle download history to make assumptions about the completion date for each book. I also used online word count estimators to guess the total words for each book. 
 
@@ -22,17 +22,20 @@ Using this data, I was able to plot the cumulative words read and books read for
 
 ![](https://github.com/ssluo/ssluo.github.io/blob/master/assets/images/book_wordsperyear.png?raw=true "Cumulative stats")
 
-##Favorite Genres
+## Favorite Genres
+
 Counting total books read by their primary genre yielded no surprises: I really enjoy sci-fi/fantasy. The group of fantasy/sci-fi/sci-fantasy makes up 58% of total books read since I started tracking this 2 years ago. 
 
 ![](https://github.com/ssluo/ssluo.github.io/blob/master/assets/images/book_genres.png?raw=true "Total books read by genre")
 
-##Favorite Authors
+## Favorite Authors
+
 Similarly unsurprising was my graph of top authors. I've been a China Miéville fan for over a decade, and binged a good amount of his works in 2018. The other top authors *all* fall into the same sci-fi/fantasy group. 
 
 ![](https://github.com/ssluo/ssluo.github.io/blob/master/assets/images/book_authors.png?raw=true "Total books read by genre")
  
-##Reading Goals
+## Reading Goals
+
 Using these charts, I came up with some reading goals for the remaining 9 months of 2020:
 
 - Read at least 12 books this year. 
