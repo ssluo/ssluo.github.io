@@ -40,7 +40,7 @@ I used these insights to come up with some personal reading goals for the remain
 
 - Read at least 12 books this year
 	- Definitely achievable given my past reading pace. With 2 books down at time of writing, I only have 10 more books to go!
-- Becoming a more balanced reader by: 
+- Become a more balanced reader by: 
 	- Reading books in at least four new genres
 	- Having less than half of books read this year be sci-fi/fantasy
 - Read books by authors outside of my favored set
