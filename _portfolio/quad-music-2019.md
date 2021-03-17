@@ -14,7 +14,7 @@ This was also a great opportunity to improve my skills in data wrangling and dat
 
 ## Group Analysis
 
-**Top Songs**
+**Top Songs**  
 Same as last year, I found all the songs that appeared on multiple playlists and compiled them into one playlist for the group to use at will. This year was heavily dominated by Billie Eilish, Ariana Grande, and Allie X, which leads us to the next part...
 
 **Top Artists**  
